@@ -1,0 +1,125 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="z-omitir",[COLOR BLUE] [/COLOR]SUSCRIBETE A MI CANAL == https://www.youtube.com/channel/UCHKjyfC3HqGeGUxR_9wgzSw
+https://www.youtube.com/channel/UCHKjyfC3HqGeGUxR_9wgzSw
+#EXTINF:-1 group-title="z-omitir" tvg-logo="http://s2.subirimagenes.com/imagen/previo/thump_9750714mikedomo-iptv-logo.png", [COLOR GREEN] [/COLOR]MIKEDOMO IPTV - IPTV GRATIS PARA TODOS
+https://www.youtube.com/channel/UCHKjyfC3HqGeGUxR_9wgzSw
+#EXTINF:-1 group-title="z-omitir",[COLOR BLUE] [/COLOR] ◄◄◄◄IPTV Brasil Premium 19/06/2017►►►► 
+https://www.youtube.com/channel/UCHKjyfC3HqGeGUxR_9wgzSw
+#EXTINF:-1 group-title="z-omitir",[COLOR GREEN] DONACIONES == https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQ9GKXGJM28G4
+https://www.youtube.com/channel/UCHKjyfC3HqGeGUxR_9wgzSw
+#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =Brasil=
+https://www.youtube.com/channel/UCHKjyfC3HqGeGUxR_9wgzSw
+#EXTINF:-1 group-title="BRASIL", Agro Canal
+http://live.sba1.com/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="BRASIL", Brasil Rural TV - ITV - S J do Rio Preto - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVBR0223&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", Canal do Boi
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="BRASIL", Canal Executivo IASD - TV - Jacare - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0201&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", Cartoon Network
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL", Classique TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+#EXTINF:-1 group-title="BRASIL", CN Agitos
+http://wsemedia.com:1935/cn01/cn01/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL", Canal 3 Camera - 3 TV - Santos - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0228&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", Combate
+http://95.211.149.215:8081/look/combate/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL", TVC Jau - NET02 TV - Ja - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0203&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", Livre TV
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL", Luau TV - RCA05 TV - Nova Friburgo - RJ R de Janeiro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0121&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", MultiTV Cidades
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+#EXTINF:-1 group-title="BRASIL", NBR
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="BRASIL", Nova TV - RCA14 TV - Nova Friburgo - RJ R de Janeiro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0122&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", Novo Tempo - 30 TV - Jacare - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0202&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", Rede Famlia - 8 TV - Campinas - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0195&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", RedeTV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:-1 group-title="BRASIL", Rede Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+#EXTINF:-1 group-title="BRASIL", Rede Litoral News - 11CTV - Cabo Frio - RJ R de Janeiro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0118&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", Rede TVT - TV - So Bdo do Campo - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0231&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", TV Admut - TV - Osasco - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVBR0212&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", TV Antares
+http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
+#EXTINF:-1 group-title="BRASIL", TV Assembleia SP
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+#EXTINF:-1 group-title="BRASIL", TV Brasil
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+#EXTINF:-1 group-title="BRASIL", TV a Caminho da Luz - ITV - Itapira - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0200&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", TV Cidade (Pelotas)
+http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8
+#EXTINF:-1 group-title="BRASIL", TV Cidade HD - NET08 TV - Osasco - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0214&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", TV Correio
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL", TV Escola
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:-1 group-title="BRASIL", TV Faap
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:-1 group-title="BRASIL", TV Gazeta
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1 group-title="BRASIL", TV Geral
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+#EXTINF:-1 group-title="BRASIL", TV Guara
+http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
+#EXTINF:-1 group-title="BRASIL", TV INES - ITV - Rio de Janeiro - RJ R de Janeiro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0128&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", TV Japi - NET03 TV - Jundia - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0206&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", TV Jornal Caruaru
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL", TV Jornal Recife
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL", TV Litoral - 23CTV - C dos Goytacazes - RJ R de Janeiro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0116&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", TV Metropole
+http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL", TV Ponta Negra
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
+#EXTINF:-1 group-title="BRASIL", TV So Caetano - ITV - So Caetano dSul - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0232&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", TV Claret - 19 TV - Rio Claro - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0220&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", TV Urbana
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL", TVE Bahia
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 group-title="BRASIL", TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1 group-title="BRASIL", UCSTV
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL", UPTV - TV - Santo Andr - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0225&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", Via Morena
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL", ZYB905 Aparecida - 59 TV - Aparecida - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0184&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", ZYB511 Globo 4.1 - 29 TV - Rio de Janeiro - RJ R de Janeiro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0129&mode=12&iconimage=http://www.radiosargentina.com.ar/png/VIglo.png
+#EXTINF:-1 group-title="BRASIL", ZYB886 Rede Vida - 11 TV - S J do Rio Preto - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0224&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", ZYB912 Santa Ceclia - 52 TV - Santos - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0230&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", ZYB879 SBT Interior - 7 TV - Araatuba - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0185&mode=12&iconimage=http://www.radiosargentina.com.ar/png/VIsbt.png
+#EXTINF:-1 group-title="BRASIL", ZYB910 TV Jornal - 39 TV - Limeira - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0207&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", ZYB919 TV Guarulhos - NET03 TV - Guarulhos - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0199&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
+#EXTINF:-1 group-title="BRASIL", ZYB923 TV Thathi 33 - 32 TV - Ribeiro Preto - SP So Paulo
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIBR0217&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESBRASIL.png
