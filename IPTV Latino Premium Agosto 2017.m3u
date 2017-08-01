@@ -13,7 +13,7 @@ https://www.youtube.com/c/MIKEDOMOIPTV
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.diariocontraste.com/wp-content/uploads/2016/11/Discovery.jpg" group-title="CULTURA", Discovery 
 http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png", DiscoveryH&H
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" group-title="CULTURA", DiscoveryH&H
 http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="CULTURA", History
 http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
