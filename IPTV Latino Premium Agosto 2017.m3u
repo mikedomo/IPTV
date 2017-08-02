@@ -89,6 +89,8 @@ http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/pl
 http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1 tvg-logo=”http://3.bp.blogspot.com/-bcmgEkz1NtE/UIO-OulYYoI/AAAAAAAAKd0/Yl7mc9Qz-T4/s1600/fox-tv-logo.png” group-title="ENTRETENIMIENTO", FOX Life
 http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="ENTRETENIMIENTO", Glitz
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/198.flv
 #EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/lifetime_2017_logo_horizontal.png" group-title="ENTRETENIMIENTO", LIFETIME
 http://wowza2.mysoltv.com:1992/Latino_LIFETIME/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cimgus.com/images/SinoVision.jpg" group-title="ENTRETENIMIENTO", SinoVision 
@@ -99,6 +101,8 @@ http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playli
 http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1 tvg-logo=”http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png” group-title="ENTRETENIMIENTO", Telemundo
 https://cdnh8.iblups.com/hls/33hssQ13ID.m3u8
+#EXTINF:-1 tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/tlnovelas-logo.png" group-title="ENTRETENIMIENTO", Tlnovelas
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/193.flv
 #EXTINF:-1 tvg-logo="http://orig10.deviantart.net/5f3a/f/2016/031/c/e/ce78f7e3d6cb7ed45c0c4d49b9e72c36-d9pzxfw.png" group-title="ENTRETENIMIENTO", TNT
 http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_Fv90J7eTcis/S69rvxjFx9I/AAAAAAAADLo/Om2sAcbDmGU/s400/Copy+of+Universal+Channel+logo+white+letters+blue+background_resize.jpg" group-title="ENTRETENIMIENTO",  Universal Channel
