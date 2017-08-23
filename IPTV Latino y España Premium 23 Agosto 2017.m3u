@@ -95,8 +95,6 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 http://tecnotv.xyz/media/telemundo49
 #EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/univison_logo_detail-550x504.jpg" group-title="ENTRETENIMIENTO", UNIVISION
 https://freedom.dreamsmx.com/axlhd/HBO_USA15_155_hd/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2016/07/0000_all_l_WARNER-Logo-Nuevo-negro.jpg"group-title="ENTRETENIMIENTO", Warner Channel
-http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.marcusapps.com/files/outlets/safehouse-chicago/interior-shots/SH-CHI-resized/Logos-Media-Page/_SH_AD_458x312_WGN_TV.jpg" group-title="ENTRETENIMIENTO", WGN Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WFPKhDbORUk/UFpEuUJoN1I/AAAAAAAAAyM/cqYt3LjYbww/s200/terror_tv_logo.png" group-title="ENTRETENIMIENTO", Zona Films Terror 
