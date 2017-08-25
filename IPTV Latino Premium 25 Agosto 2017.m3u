@@ -28,17 +28,17 @@ https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES", All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" group-title="DEPORTES", CDN Sports Max
-http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+http://bit.ly/2uKiMUq
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-G-CNMy7dAls/AAAAAAAAAAI/AAAAAAAAAAA/PqH6kUGN5TQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="DEPORTES", CDO Premium
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/uk/CHELSEATV.png" group-title="DEPORTES", Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="DEPORTES", Fox Sports 
-https://live69.vkuserlive.com/613505/live/cmcmQ4ZDfJqf6hoE/playlist.m3u8
+http://bit.ly/2xjlSwg
 #EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/foxsports2.png" group-title="DEPORTES", Fox Sports 2 
-https://live73.vkuserlive.com/620009/live/CEgJOXJAf27L61cy/playlist.m3u8
+http://bit.ly/2wEUvzC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/745px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+http://atmlb.com/2x5XJZ2
 #EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png" group-title="DEPORTES", Pac 12 Arizona
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-bayarea-logo.png" group-title="DEPORTES", Pac 12 Bay Area
@@ -66,7 +66,7 @@ https://hls-ord-1a.vaughnsoft.net/ams/live/live_broadmovieshd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/sv_canal-claro_m.png" group-title="ENTRETENIMIENTO", Canal Claro
 http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png" group-title="ENTRETENIMIENTO", Canal de las Estrellas
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+http://bit.ly/2xzAwi6
 #EXTINF:-1 tvg-logo="http://publications.mcgill.ca/reporter/files/2016/02/LogoCanalSavoir09_Blanc.jpg" group-title="ENTRETENIMIENTO", Canal Savoir 
 http://stream.canalsavoir.tv/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://lpz.cine-plus.de/online/img/logo_cp.jpg" group-title="ENTRETENIMIENTO", CINE +
@@ -88,11 +88,11 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cimgus.com/images/SinoVision.jpg" group-title="ENTRETENIMIENTO", SinoVision 
 http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1 tvg-logo=”http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png” group-title="ENTRETENIMIENTO", Telemundo
-http://tecnotv.xyz/media/telemundo49
+http://bit.ly/2vut8Vn
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png” group-title="ENTRETENIMIENTO", Travel HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/univison_logo_detail-550x504.jpg" group-title="ENTRETENIMIENTO", UNIVISION
-https://cdnh8.iblups.com/hls/TzMLT5VhhH.m3u8
+http://bit.ly/2vuCIHN
 #EXTINF:-1 tvg-logo="https://assets.marcusapps.com/files/outlets/safehouse-chicago/interior-shots/SH-CHI-resized/Logos-Media-Page/_SH_AD_458x312_WGN_TV.jpg" group-title="ENTRETENIMIENTO", WGN Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="z-omitir",[COLOR YELLOW] [/COLOR] =INFANTIL=
@@ -160,9 +160,9 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ARGENTINA=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="ARGENTINA", A24 - NOTICIAS
-http://ar.watcha.live/ch2/hi.m3u8
+http://bit.ly/2uM1qGP
 #EXTINF:-1 group-title="ARGENTINA", América
-http://ar.watcha.live/ch3/hi.m3u8
+http://bit.ly/2uwf80p
 #EXTINF:-1 group-title="ARGENTINA", Canal 4 Jujuy
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Canal 4 - Posadas
@@ -170,25 +170,25 @@ http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Canal 13
-http://ar.watcha.live/ch7/hi.m3u8
+http://bit.ly/2vNO2S8
 #EXTINF:-1 group-title="ARGENTINA", Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Canal Rural
 rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
 #EXTINF:-1 group-title="ARGENTINA", CANAL 7 - CHUBUT
-http://01.solumedia.com.ar:1935/c7/myStream/playlist.m3u8
+http://bit.ly/2fzDJe3
 #EXTINF:-1 group-title="ARGENTINA", CANAL 11 - USHUAIA
-http://01.solumedia.com.ar:1935/c11/myStream/playlist.m3u8
+http://bit.ly/2vYBSp3
 #EXTINF:-1 group-title="ARGENTINA", CANAL 13 - RIO GRANDE - T. DEL FUEGO
 http://bit.ly/2uOakia
 #EXTINF:-1 group-title="ARGENTINA", CN23
-http://ar.watcha.live/ch11/hi.m3u8
+http://bit.ly/2vMhkho
 #EXTINF:-1 group-title="ARGENTINA", C5N
-http://ar.watcha.live/ch1/hi.m3u8
+http://bit.ly/2we43Bd
 #EXTINF:-1 group-title="ARGENTINA", CPETV - LA PAMPA
 http://live-19.viewer.dacast.com/i/dclive_1@336785/master.m3u8
 #EXTINF:-1 group-title="ARGENTINA", El Nueve
-http://ar.watcha.live/ch5/hi.m3u8
+http://bit.ly/2uwraXB
 #EXTINF:-1 group-title="ARGENTINA", Canal 24/7 NEUQUEN - NOTICIAS
 http://142.4.208.146:1935/cn247/cn247/chunklist.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Orbe 21
@@ -200,8 +200,8 @@ http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8
 #EXTINF:-1 group-title="ARGENTINA", CANAL 13 - RIO GRANDE - T. DEL FUEGO
 http://01.solumedia.com.ar:1935/c13/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Telefe
-http://ar.watcha.live/ch6/hi.m3u8
-#EXTINF:-1 group-title="ARGENTINA", Telemax Arg
+http://bit.ly/2vYC0F3
+#EXTINF:-1 group-title="ARGENTINA", Telemax 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Telpin
 http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
@@ -310,7 +310,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0012&mode=12&iconimage=ht
 #EXTINF:-1 group-title="COLOMBIA", Telecafe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0029&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
 #EXTINF:-1 group-title="COLOMBIA", Tele Caribe 
-http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/chunklist_b1500000.m3u8
+http://bit.ly/2vw6pGX
 #EXTINF:-1 group-title="COLOMBIA", Teleislas
 rtmp://vbox2.cehis.net:1935/live-teleislas/_definst_mp4:teleislas
 #EXTINF:-1 group-title="COLOMBIA", Telemedellin 
@@ -494,7 +494,7 @@ http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Canal America
 http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo=”http://digotv.do/wp-content/uploads/2017/07/Logo-NCDN_CDN-37.jpg” group-title="REPUBLICA DOMINICANA", CDN 37
-http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
+http://bit.ly/2uONqag
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Digital 15 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/befe2cb934f5f388e2b08fc6e5a168cf.jpg" group-title="REPUBLICA DOMINICANA", NARANJA TV 
