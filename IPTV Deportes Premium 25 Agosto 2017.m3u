@@ -1,0 +1,68 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="z-omitir",[COLOR BLUE] [/COLOR]SUSCRIBETE A MI CANAL == https://www.youtube.com/c/MIKEDOMOIPTV
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir" tvg-logo="http://s2.subirimagenes.com/imagen/previo/thump_9750714mikedomo-iptv-logo.png", [COLOR GREEN] [/COLOR]MIKEDOMO IPTV - IPTV GRATIS PARA TODOS
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir",[COLOR BLUE] [/COLOR] ◄◄◄◄IPTV Deportes Premium 25/08/2017►►►► 
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir",[COLOR GREEN] DONACIONES == https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQ9GKXGJM28G4
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =DEPORTES=
+#EXTINF:-1 group-title="DEPORTES", AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="DEPORTES", AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="DEPORTES", AD Sports 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 group-title="DEPORTES", AD Sports 2 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="DEPORTES", All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="DEPORTES", Bayern Munchen TV
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8
+#EXTINF:-1 group-title="DEPORTES", Betis tv	
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="DEPORTES", CDN Sports Max
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+#EXTINF:-1 group-title="DEPORTES", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+#EXTINF:-1 group-title="DEPORTES", Chelsea Tv
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1 group-title="DEPORTES", Deport Tv
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 
+https://live69.vkuserlive.com/613505/live/cmcmQ4ZDfJqf6hoE/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
+https://live73.vkuserlive.com/620009/live/CEgJOXJAf27L61cy/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="DEPORTES", NFL USA
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:-1 group-title="DEPORTES", Sportal BG
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Sports Tv
+http://159.203.21.102/abrhd/aovivonatv1/tracks-v1a1/index.m3u8?pxAuth=YK0NR3nvfRpgX8XPsBInRCtZc443QJ24
+#EXTINF:-1 group-title="DEPORTES", SportBG HD 
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1 group-title="DEPORTES", Dubai Racing 1
+http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
+#EXTINF:-1 group-title="DEPORTES", Dubai Racing 2
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
+#EXTINF:-1 group-title="DEPORTES", Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="DEPORTES", SPORT TV 1
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17904.ts
+#EXTINF:-1 group-title="DEPORTES", SPORT TV 5
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17900.ts
+#EXTINF:-1 group-title="DEPORTES", Sporting Tv HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="DEPORTES", Teletrack
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="DEPORTES", Todo Deportes 
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="DEPORTES",WWE Network
+http://hlslive-akc.med1.net.wwe.com/ls01/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEDIA_2_WWE_Dual_Linear_Event_20170822_1503433883904/3000K/3000_slide.m3u8
