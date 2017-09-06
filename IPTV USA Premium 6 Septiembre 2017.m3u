@@ -83,8 +83,6 @@ http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
 http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
 #EXTINF:-1 group-title="CABLE", SCCtv
 http://media3.scctv.net/live/scctv_300/playlist.m3u8
-#EXTINF:-1 group-title="CABLE", St. Petersburg TV
-http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-1/stpete/mp4:G0187_002/chunklist_w306238720.m3u8
 #EXTINF:-1 group-title="CABLE", TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 group-title="CABLE", Temple University TV
