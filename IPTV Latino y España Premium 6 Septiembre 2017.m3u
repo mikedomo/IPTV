@@ -44,7 +44,7 @@ http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="DEPORTES", BT Sport 3
 http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" group-title="DEPORTES", CDN Sports Max
-http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+http://bit.ly/2uKiMUq
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-G-CNMy7dAls/AAAAAAAAAAI/AAAAAAAAAAA/PqH6kUGN5TQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="DEPORTES", CDO Premium
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/uk/CHELSEATV.png" group-title="DEPORTES", Chelsea TV
@@ -108,9 +108,9 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cimgus.com/images/SinoVision.jpg" group-title="ENTRETENIMIENTO", SinoVision 
 http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1 tvg-logo=”http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png” group-title="ENTRETENIMIENTO", Telemundo
-http://tecnotv.xyz/media/telemundo49
+http://bit.ly/2vut8Vn
 #EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/univison_logo_detail-550x504.jpg" group-title="ENTRETENIMIENTO", UNIVISION
-https://hls-ord-1a.vaughnsoft.net/den/live/live_tvhdenvivo2/chunklist.m3u8
+http://bit.ly/2wiq3tC
 #EXTINF:-1 tvg-logo="https://assets.marcusapps.com/files/outlets/safehouse-chicago/interior-shots/SH-CHI-resized/Logos-Media-Page/_SH_AD_458x312_WGN_TV.jpg" group-title="ENTRETENIMIENTO", WGN Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/2/6/7/22671982/22671982,192x192,r:2.jpg" group-title="ENTRETENIMIENTO", Vitato Series 
@@ -182,9 +182,9 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ARGENTINA=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="ARGENTINA", A24 - NOTICIAS
-http://ar.watcha.live/ch2/hi.m3u8
+http://bit.ly/2uM1qGP
 #EXTINF:-1 group-title="ARGENTINA", América
-http://ar.watcha.live/ch3/hi.m3u8
+http://bit.ly/2uwf80p
 #EXTINF:-1 group-title="ARGENTINA", Canal 4 Jujuy
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Canal 4 - Posadas
@@ -192,25 +192,25 @@ http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Canal 13
-http://ar.watcha.live/ch7/hi.m3u8
+http://bit.ly/2vNO2S8
 #EXTINF:-1 group-title="ARGENTINA", Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Canal Rural
 rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
 #EXTINF:-1 group-title="ARGENTINA", CANAL 7 - CHUBUT
-http://01.solumedia.com.ar:1935/c7/myStream/playlist.m3u8
+http://bit.ly/2fzDJe3
 #EXTINF:-1 group-title="ARGENTINA", CANAL 11 - USHUAIA
-http://01.solumedia.com.ar:1935/c11/myStream/playlist.m3u8
+http://bit.ly/2vYBSp3
 #EXTINF:-1 group-title="ARGENTINA", CANAL 13 - RIO GRANDE - T. DEL FUEGO
 http://bit.ly/2uOakia
 #EXTINF:-1 group-title="ARGENTINA", CN23
-http://ar.watcha.live/ch11/hi.m3u8
+http://bit.ly/2vMhkho
 #EXTINF:-1 group-title="ARGENTINA", C5N
-http://ar.watcha.live/ch1/hi.m3u8
+http://bit.ly/2we43Bd
 #EXTINF:-1 group-title="ARGENTINA", CPETV - LA PAMPA
 http://live-19.viewer.dacast.com/i/dclive_1@336785/master.m3u8
 #EXTINF:-1 group-title="ARGENTINA", El Nueve
-http://ar.watcha.live/ch5/hi.m3u8
+http://bit.ly/2uwraXB
 #EXTINF:-1 group-title="ARGENTINA", Canal 24/7 NEUQUEN - NOTICIAS
 http://142.4.208.146:1935/cn247/cn247/chunklist.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Orbe 21
@@ -222,7 +222,7 @@ http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8
 #EXTINF:-1 group-title="ARGENTINA", CANAL 13 - RIO GRANDE - T. DEL FUEGO
 http://01.solumedia.com.ar:1935/c13/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Telefe
-http://ar.watcha.live/ch6/hi.m3u8
+http://bit.ly/2vYC0F3
 #EXTINF:-1 group-title="ARGENTINA", Telemax Arg
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Telpin
@@ -516,7 +516,7 @@ http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Canal America
 http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo=”http://digotv.do/wp-content/uploads/2017/07/Logo-NCDN_CDN-37.jpg” group-title="REPUBLICA DOMINICANA", CDN 37
-http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
+http://bit.ly/2uONqag
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Digital 15 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/befe2cb934f5f388e2b08fc6e5a168cf.jpg" group-title="REPUBLICA DOMINICANA", NARANJA TV 
