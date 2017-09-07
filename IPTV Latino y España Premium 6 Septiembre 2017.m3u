@@ -101,6 +101,8 @@ http://50.7.98.234:1935/rtv/videortv/chunklist_w1293948741.m3u8
 https://hls-ord-1a.vaughnsoft.net/nyc/live/live_dr_daniel_jackson/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.aazee.com/wp-content/uploads/2015/09/moviehd_logo.jpg" group-title="ENTRETENIMIENTO", Katy HD Movies
 https://hls-ord-1a.vaughnsoft.net/ams/live/live_katyhd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/estrellas.png" group-title="ENTRETENIMIENTO", Las Estrellas
+http://bit.ly/2xzAwi6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/NEXTV_PERU_LOGOBETA.png" group-title="ENTRETENIMIENTO", NexTV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
 #EXTINF:-1 tvg-logo=”http://www.donna10.it/wp-content/uploads/2012/12/rai_premium.png” group-title="ENTRETENIMIENTO", RAI Premium
