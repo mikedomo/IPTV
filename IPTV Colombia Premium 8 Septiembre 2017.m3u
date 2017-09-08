@@ -17,6 +17,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0013&mode=12&iconimage=ht
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0001&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
 #EXTINF:-1  group-title="LOCALES", Canal Capital 2 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0011&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+#EXTINF:-1  group-title="LOCALES", CARACOL 
+http://bit.ly/2f941AD
 #EXTINF:-1  group-title="LOCALES", CristovisiOn 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0004&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
 #EXTINF:-1  group-title="LOCALES", Teleamiga 
@@ -33,7 +35,6 @@ rtmp://vbox2.cehis.net:1935/live-teleislas/_definst_mp4:teleislas
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0024&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =CABLE=
 https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="CABLE" tvg-name="Cartoon Network HD" tvg-logo="https://www.dropbox.com/s/sqszfm0u326kou7/cartoon.png?dl=1",Cartoon Network HD
 #EXTINF:-1 group-title="CABLE", Animal Planet 
 http://c742ecf6-lp-omega.ums.ustream.tv/playlist/directhls/channel/12762028/1/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&sgn=37aaf3dd64ca3638b0407a4751def2c0d1796722&cdnHost=sjc-ucdn02.ustream.tv/
 #EXTINF:-1 group-title="CABLE", Discovery Channel Asia
@@ -72,6 +73,12 @@ http://bit.ly/2uKiMUq
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 group-title="CABLE", Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1 group-title="CABLE", ESPN
+http://bit.ly/2xUUuor
+#EXTINF:-1 group-title="CABLE", ESPN 2
+http://bit.ly/2gPUJcI
+#EXTINF:-1 group-title="CABLE", ESPN 3
+http://bit.ly/2xbDhcL
 #EXTINF:-1 group-title="CABLE", MLB Network
 http://atmlb.com/2x5XJZ2
 #EXTINF:-1 group-title="CABLE", Mundo Auto 
