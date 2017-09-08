@@ -49,6 +49,12 @@ http://bit.ly/2uKiMUq
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/uk/CHELSEATV.png" group-title="DEPORTES", Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://logodatabases.com/wp-content/uploads/2012/05/espn-logo.jpg" group-title="DEPORTES", ESPN
+https://live95.vkuserlive.com/639906/live/Bzx9Nm5DfHJcogE3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png" group-title="DEPORTES", ESPN 2
+https://live94.vkuserlive.com/613503/live/B9KTNlZDfEo9S1MT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES", ESPN 3
+https://live98.vkuserlive.com/637609/live/B7v6Nm5DfHIpGeQK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/745px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/826171057505705985/pbyyP8Tz_400x400.jpg" group-title="DEPORTES", Mundo Auto 
@@ -85,6 +91,8 @@ https://hls-ord-1a.vaughnsoft.net/ams/live/live_broadmovieshd/chunklist.m3u8
 http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
 #EXTINF:-1 tvg-logo="http://publications.mcgill.ca/reporter/files/2016/02/LogoCanalSavoir09_Blanc.jpg" group-title="ENTRETENIMIENTO", Canal Savoir 
 http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_canal_caracol.jpg" group-title="ENTRETENIMIENTO", Caracol 
+https://live61.vkuserlive.com/637609/live/uq3si2lAf3U/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lpz.cine-plus.de/online/img/logo_cp.jpg" group-title="ENTRETENIMIENTO", CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://oottoo.com/wp-content/uploads/2017/02/CineCalidad-logo-2.png" group-title="ENTRETENIMIENTO", Cine Calidad
