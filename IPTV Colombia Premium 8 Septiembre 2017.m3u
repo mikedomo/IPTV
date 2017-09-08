@@ -1,0 +1,222 @@
+#EXTM3U
+#EXTINF:-1 group-title="z-omitir",[COLOR BLUE] [/COLOR]SUSCRIBETE A MI CANAL == https://www.youtube.com/c/MIKEDOMOIPTV
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir" tvg-logo="http://s2.subirimagenes.com/imagen/previo/thump_9750714mikedomo-iptv-logo.png", [COLOR GREEN] [/COLOR]MIKEDOMO IPTV - IPTV GRATIS PARA TODOS
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir",[COLOR BLUE] [/COLOR] ++++IPTV Colombia Premium 08/09/2017++++ 
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir",[COLOR GREEN] DONACIONES == https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQ9GKXGJM28G4
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =LOCALES=
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1  group-title="LOCALES", 12CTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0022&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+#EXTINF:-1  group-title="LOCALES", 49 TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0013&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+#EXTINF:-1  group-title="LOCALES", Cable Noticias 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0001&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+#EXTINF:-1  group-title="LOCALES", Canal Capital 2 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0011&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+#EXTINF:-1  group-title="LOCALES", CristovisiOn 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0004&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+#EXTINF:-1  group-title="LOCALES", Teleamiga 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0012&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+#EXTINF:-1  group-title="LOCALES", Teleantioquia 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1  group-title="LOCALES", Telecafe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0029&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+#EXTINF:-1  group-title="LOCALES", Tele Caribe 
+http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1  group-title="LOCALES", Teleislas
+rtmp://vbox2.cehis.net:1935/live-teleislas/_definst_mp4:teleislas
+#EXTINF:-1  group-title="LOCALES", Telemedellin 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0024&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =CABLE=
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="CABLE" tvg-name="Cartoon Network HD" tvg-logo="https://www.dropbox.com/s/sqszfm0u326kou7/cartoon.png?dl=1",Cartoon Network HD
+#EXTINF:-1 group-title="CABLE", Animal Planet 
+http://c742ecf6-lp-omega.ums.ustream.tv/playlist/directhls/channel/12762028/1/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&sgn=37aaf3dd64ca3638b0407a4751def2c0d1796722&cdnHost=sjc-ucdn02.ustream.tv/
+#EXTINF:-1 group-title="CABLE", Discovery Channel Asia
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Discovery Channel HD
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Discovery World
+http://iptvthailand.dyndns.biz/dode/discoveryworld.stream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Earth TV
+http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", History
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", NASA TV
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:-1 group-title="CABLE", National geographic
+http://iptvthailand.dyndns.biz/dode/natgeohd.stream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", National Geographic People
+http://iptvthailand.dyndns.biz/dode/natpeople.stream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Nat Geo Wild
+http://iptvthailand.dyndns.biz/dode/natwild.stream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Abu Dhabi Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 group-title="CABLE", Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="CABLE", All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 group-title="CABLE", BT Sport 1
+http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="CABLE", BT Sport 2
+http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="CABLE", BT Sport 3
+http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="CABLE", CDN Sports Max
+http://bit.ly/2uKiMUq
+#EXTINF:-1 group-title="CABLE", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1 group-title="CABLE", MLB Network
+http://atmlb.com/2x5XJZ2
+#EXTINF:-1 group-title="CABLE", Mundo Auto 
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1 group-title="CABLE", Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1 group-title="CABLE", Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1 group-title="CABLE", Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1 group-title="CABLE", Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1 group-title="CABLE", Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1 group-title="CABLE", Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1 group-title="CABLE", Real Madrid TV
+http://bit.ly/2x1T8YL
+#EXTINF:-1 group-title="CABLE", Sporting Tv HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="CABLE", SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Todo Deportes 
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1 group-title="CABLE", UFC NETWORK
+http://bit.ly/2gOkOJm
+#EXTINF:-1 group-title="CABLE", Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 group-title="CABLE", Broad Movies
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_broadmovieshd/chunklist.m3u8
+#EXTINF:-1 group-title="CABLE", Canal Claro
+http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+#EXTINF:-1 group-title="CABLE", Canal Savoir 
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:-1 group-title="CABLE", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="CABLE", Cine Calidad
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cine_calidad/chunklist.m3u8
+#EXTINF:-1 group-title="CABLE", Cine Star
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_cine_star/chunklist.m3u8
+#EXTINF:-1 group-title="CABLE", Cinecanal
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Cine On Demand (Brasil) 
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
+#EXTINF:-1 group-title="CABLE", Deutsche Welle Latinoamérica
+http://50.7.98.234:1935/rtv/videortv/chunklist_w1293948741.m3u8
+#EXTINF:-1 group-title="CABLE", Dr House 24/7
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_dr_daniel_jackson/chunklist.m3u8
+#EXTINF:-1 group-title="CABLE", Katy HD Movies
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_katyhd/chunklist.m3u8
+#EXTINF:-1 group-title="CABLE", Las Estrellas
+http://bit.ly/2xzAwi6
+#EXTINF:-1 group-title="CABLE", NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+#EXTINF:-1 group-title="CABLE", RAI Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1 group-title="CABLE", SinoVision 
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1 group-title="CABLE", Telemundo
+http://bit.ly/2vut8Vn
+#EXTINF:-1 group-title="CABLE", TV5Monde Latino
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1 group-title="CABLE", UNIVISION
+http://bit.ly/2wiq3tC
+#EXTINF:-1 group-title="CABLE", WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 group-title="CABLE", 24/7 Los Simpson
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 group-title="CABLE", boomerang
+http://iptvthailand.dyndns.biz/dode/boomerang.stream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Cartoon Network
+http://iptvthailand.dyndns.biz/dode/cartoonnetwork.stream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Chespiritomania 
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_chespirito_mania/chunklist.m3u8
+#EXTINF:-1 group-title="CABLE", Disney XD
+http://iptvthailand.dyndns.biz/dode/disneyxd.stream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Toonami
+http://iptvthailand.dyndns.biz/dode/toonami.stream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 group-title="CABLE", Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Music Choice 
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1 group-title="CABLE", Music Japan
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Telemúsica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Teleritmo
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+#EXTINF:-1 group-title="CABLE", Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:-1 group-title="CABLE", Vibee
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1 group-title="CABLE", ABC News
+http://abclive.abcNEWS.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1 group-title="CABLE", Al Jazeera 
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1 group-title="CABLE", CBS News
+http://cbsNEWShd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1 group-title="CABLE", CGTN Español 
+http://live.cgtn.com/cctv-e.m3u8
+#EXTINF:-1 group-title="CABLE", CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", HispanTV
+http://178.32.255.199:1935/live/hispantv/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", News Asia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 group-title="CABLE", Nigeria TVC News
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Rai News 24
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Rusia Today en Español
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+#EXTINF:-1 group-title="CABLE", RT en inglés
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 group-title="z-omitir", [COLOR YELLOW] [/COLOR] =PELICULAS=
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 tvg-logo="http://bit.ly/2eLtkrY" group-title="PELICULAS", All The Way (2016)
+http://bit.ly/2eSzN7X
+#EXTINF:-1 tvg-logo="http://bit.ly/2eLh2j6" group-title="PELICULAS", Batman vs robin (2015)
+http://bit.ly/2wOsZg9
+#EXTINF:-1 tvg-logo="http://bit.ly/2vKLTTM" group-title="PELICULAS", Caza bajo el sol (2014)
+http://bit.ly/2f9DVh3
+#EXTINF:-1 tvg-logo="http://bit.ly/2xRaQxB" group-title="PELICULAS", El Halcon Maltés (1941)
+http://bit.ly/2gOagtF
+#EXTINF:-1 tvg-logo="http://bit.ly/2vSAyoP" group-title="PELICULAS", Flaming Star (1960)
+http://bit.ly/2wOmr1b
+#EXTINF:-1 tvg-logo="http://bit.ly/2gNXATL" group-title="PELICULAS", Mano Rapida (1973)
+http://bit.ly/2wNfgbT
+#EXTINF:-1 tvg-logo="http://bit.ly/2wNJwTo" group-title="PELICULAS", Moby Dick (1956)
+http://bit.ly/2gRl4ee
+#EXTINF:-1 tvg-logo="http://bit.ly/2xhYdiP" group-title="PELICULAS", Nocturnal Animals (2016)
+http://bit.ly/2xhPrS7
+*#EXTINF:-1 tvg-logo="http://bit.ly/2gPPDB6" group-title="PELICULAS", Panico en el Transiberiano (1972)
+http://bit.ly/2xRKdZE
+#EXTINF:-1 tvg-logo="http://bit.ly/2gSuSED" group-title="PELICULAS", The Fate of the Furious (2017)
+http://bit.ly/2gOV9QK
+#EXTINF:-1 tvg-logo="http://bit.ly/2vS7tdn" group-title="PELICULAS", xXx - Return of Xander Cage (2017) 
+http://bit.ly/2xhGU1y
