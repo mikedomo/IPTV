@@ -37,14 +37,16 @@ http://bit.ly/2uKiMUq
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/uk/CHELSEATV.png" group-title="DEPORTES", Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://logodatabases.com/wp-content/uploads/2012/05/espn-logo.jpg" group-title="DEPORTES", ESPN
-http://bit.ly/2xu00kY
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png" group-title="DEPORTES", ESPN 2
-http://bit.ly/2w5LcIZ
+#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2016/0718/fmOK_576x324.jpg" group-title="DEPORTES", ESPN Radio 107.9 FM
+http://bit.ly/2x2lMJI
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="DEPORTES", Fox Sports
+http://bit.ly/2h76Mq8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/745px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/826171057505705985/pbyyP8Tz_400x400.jpg" group-title="DEPORTES", Mundo Auto 
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9095.png" group-title="DEPORTES", NFL Now
+http://bit.ly/2jsUclC
 #EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png" group-title="DEPORTES", Pac 12 Arizona
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-bayarea-logo.png" group-title="DEPORTES", Pac 12 Bay Area
