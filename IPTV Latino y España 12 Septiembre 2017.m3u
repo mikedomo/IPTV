@@ -37,10 +37,12 @@ http://bit.ly/2uKiMUq
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/uk/CHELSEATV.png" group-title="DEPORTES", Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2016/0718/fmOK_576x324.jpg" group-title="DEPORTES", ESPN Radio 107.9 FM
-http://bit.ly/2x2lMJI
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="DEPORTES", Fox Sports
-http://bit.ly/2h76Mq8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png" group-title="DEPORTES", ESPN 2 (ARG)
+http://bit.ly/2xpSLKi
+#EXTINF:-1 tvg-logo="http://www.tele-envivo.com/wp-content/uploads/2016/07/espn-3-online.png" group-title="DEPORTES", ESPN 3 (ARG)
+http://bit.ly/2wxo6WZ
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3CJezBMLwu0/maxresdefault.jpg" group-title="DEPORTES", ESPN DEPORTES
+http://bit.ly/2x4jzjh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/745px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/826171057505705985/pbyyP8Tz_400x400.jpg" group-title="DEPORTES", Mundo Auto 
