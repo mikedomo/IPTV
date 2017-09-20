@@ -417,8 +417,6 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =MEXICO=
 https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 tvg-logo=”http://3.bp.blogspot.com/-pAJRParqFLQ/VGEk7cy6CFI/AAAAAAAAJDs/ybpIYIFCWEE/s1600/azteca%2B(1).JPG” group-title="MEXICO", Azteca 13
-http://aztecalive-lh.akamaihd.net:80/i/0oxnvzh8a_1@175671/index_3_av-p.m3u8
 #EXTINF:-1 group-title="MEXICO", Aristegui NOTICIAS
 https://vod.livestream.com/events/00000000006147c6/42a5ebd3-9d01-4ab5-ba7b-f6b01afb7752_1756.m3u8?token=0_595a9bd5_aa2ebcad66b28c4fc4b122ab115e3d6b5bd98b3e&start=106&end=14498
 #EXTINF:-1 group-title="MEXICO", Azteca 13
