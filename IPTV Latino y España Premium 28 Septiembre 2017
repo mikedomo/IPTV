@@ -353,7 +353,7 @@ https://www.youtube.com/c/MIKEDOMOIPTV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICU0001&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES--CUBA.png
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ECUADOR=
 https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="Ecuador", Ecotel TV
+#EXTINF:-1 group-title="ECUADOR", Ecotel TV
 rtmp://192.95.25.203:554/canal1/radiostation.stream
 #EXTINF:-1 group-title="ECUADOR", Ecuavisa 
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
