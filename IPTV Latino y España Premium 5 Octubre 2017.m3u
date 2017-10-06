@@ -40,19 +40,19 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="DEPORTES", BT Sport 3
 http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" group-title="DEPORTES", CDN Sports Max
-http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+http://bit.ly/2uKiMUq
 #EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/uk/CHELSEATV.png" group-title="DEPORTES", Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES", ESPN 3 (ARG)
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/PTGUX-1011001110101010101111011101011-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9lc3BuLTMtZW4tdml2by5odG1s/visita-exabytetv.m3u8
+http://bit.ly/2yMEPYf
 #EXTINF:-1 tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="DEPORTES", ESPN DEPORTES
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/PTGUX-1011001110101010101111011101011-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9Fc3BuLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
+http://bit.ly/2y3aJm2
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png" group-title="DEPORTES", Fox Sports (CL) 2
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2FhF1CYp1twJIJNWh9CktSohPtLTBr7Fa1MNv6ISAwwg6xC9LJNIBfnnnrM2xADucXLsp%2BVRi6uXg%3D%3D
+http://bit.ly/2xlmuVD
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logosfake/images/f/f5/Fox_Sports_3_logo.png" group-title="DEPORTES", Fox Sports (CL) 3
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2F5LwZ5NzbgvsE7SF1kA4fICvyv08zv%2FwSSFlyMyme0Vic0AH3wXjJtBSSI8%2B1YaeaWfet%2F9dwNWQ%3D%3D  
+http://bit.ly/2fTJ6oL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/745px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+http://atmlb.com/2x5XJZ2
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/826171057505705985/pbyyP8Tz_400x400.jpg" group-title="DEPORTES", Mundo Auto 
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9095.png" group-title="DEPORTES", NFL Now
@@ -79,8 +79,6 @@ http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1 type="stream" tvg-logo="https://k60.kn3.net/5/D/9/5/7/D/BB1.png" group-title="DEPORTES", TyC Sports Internacional
 https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
-#EXTINF:-1 tvg-logo="http://media.ufc.tv/logos/logo-baja.png" group-title="DEPORTES",  UFC NETWORK
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ENTRETENIMIENTO=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 tvg-logo="http://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="ENTRETENIMIENTO", Atreseries
@@ -88,7 +86,7 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1 tvg-logo="http://publications.mcgill.ca/reporter/files/2016/02/LogoCanalSavoir09_Blanc.jpg" group-title="ENTRETENIMIENTO", Canal Savoir 
 http://stream.canalsavoir.tv/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_canal_caracol.jpg" group-title="ENTRETENIMIENTO", Caracol 
-http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8
+http://bit.ly/2xXz2zx
 #EXTINF:-1 tvg-logo="https://lpz.cine-plus.de/online/img/logo_cp.jpg" group-title="ENTRETENIMIENTO", CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2014/07/cinecanal.jpg" group-title="ENTRETENIMIENTO", Cinecanal
@@ -96,17 +94,17 @@ http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo=”http://europeanjournalists.org/wp-content/uploads/2015/02/deutsche_welle_radio1.png” group-title="ENTRETENIMIENTO", Deutsche Welle Latinoamérica
 http://50.7.98.234:1935/rtv/videortv/chunklist_w1293948741.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/estrellas.png" group-title="ENTRETENIMIENTO", Las Estrellas
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+http://bit.ly/2xzAwi6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/NEXTV_PERU_LOGOBETA.png" group-title="ENTRETENIMIENTO", NexTV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
 #EXTINF:-1 tvg-logo=”http://www.donna10.it/wp-content/uploads/2012/12/rai_premium.png” group-title="ENTRETENIMIENTO", RAI Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png" group-title="ENTRETENIMIENTO", RCN Colombia
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+http://bit.ly/2wycfx1
 #EXTINF:-1 tvg-logo="http://www.cimgus.com/images/SinoVision.jpg" group-title="ENTRETENIMIENTO", SinoVision 
 http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1 tvg-logo=”http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png” group-title="ENTRETENIMIENTO", Telemundo
-http://tecnotv.xyz/media/telemundo49
+http://bit.ly/2vut8Vn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" group-title="ENTRETENIMIENTO", TV5Monde Latino
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-logo="https://assets.marcusapps.com/files/outlets/safehouse-chicago/interior-shots/SH-CHI-resized/Logos-Media-Page/_SH_AD_458x312_WGN_TV.jpg" group-title="ENTRETENIMIENTO", WGN Chicago
@@ -464,7 +462,7 @@ https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Canal America
 http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", CDN 37
-http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
+http://bit.ly/2uONqag
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Digital 15 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Noticias 16
@@ -492,7 +490,7 @@ http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =URUGUAY=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="URUGUAY", Unicanal
-http://strm.unicanal.com.py/live/unicanal.m3u8
+http://bit.ly/2xVuNaj
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =VENEZUELA=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="VENEZUELA", TLT
