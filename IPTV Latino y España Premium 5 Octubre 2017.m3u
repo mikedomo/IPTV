@@ -41,6 +41,8 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" group-title="DEPORTES", CDN Sports Max
 http://bit.ly/2uKiMUq
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_8435_2_3505.png" group-title="DEPORTES", CDF Premium
+http://novelasfans.org/fanstvapp.php?id=src5/CDFPremium&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
 #EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/uk/CHELSEATV.png" group-title="DEPORTES", Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES", ESPN 3 (ARG)
