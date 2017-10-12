@@ -45,12 +45,6 @@ http://bit.ly/2uKiMUq
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 #EXTINF:0  group-title="DEPORTES", Deport Tv
 https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
-#EXTINF:-1 group-title="DEPORTES", J Sports 1
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", J Sports 2
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", J Sports 3
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8 
 #EXTINF:-1 group-title="DEPORTES", Latin American Sports HD
 https://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
 #EXTINF:-1 group-title="DEPORTES", MLB Network
@@ -100,7 +94,7 @@ http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Cinecanal
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Deutsche Welle Latinoamérica
-http://50.7.98.234:1935/rtv/videortv/chunklist_w1293948741.m3u8
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Las Estrellas
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", NexTV
