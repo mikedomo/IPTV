@@ -36,11 +36,11 @@ http://adtv.ercdn.net/adsport2/adsport2.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES", All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" group-title="DEPORTES", CDN Sports Max
-http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+http://bit.ly/2uKiMUq
 #EXTINF:-1 tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg" group-title="DEPORTES",Dubai Racing 2
 http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="DEPORTES", EUROSport 2
-http://185.169.198.106/cavscampeon/251343.m3u8?wmsAuthSign2=d2l6MjM=&token=c2VydmVyX3RpbWU9MTUwODA4MjY0NCZoYXNoX3ZhbHVlPWRWbzhRdWRNR0o0QXovalA5WVdjOEE9PSZ2YWxpZG1pbnV0ZXM9MTAw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="DEPORTES", Eurosport 2
+http://bit.ly/2inVH4u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/745px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/826171057505705985/pbyyP8Tz_400x400.jpg" group-title="DEPORTES", Mundo Auto 
@@ -104,7 +104,7 @@ http://player.tvnet.lv/live/amlst:11/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cimgus.com/images/SinoVision.jpg" group-title="ENTRETENIMIENTO", SinoVision 
 http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple117/v4/15/84/cc/1584cc7e-3d95-1902-9c5c-fa7690531f6f/source/1200x630bb.jpg" group-title="ENTRETENIMIENTO", TELEMUNDO 51 HD
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
+http://bit.ly/2goyue8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tele_Pavia.jpg" group-title="ENTRETENIMIENTO", TelePAVIA
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" group-title="ENTRETENIMIENTO", TV5Monde Latino
@@ -486,7 +486,7 @@ http://qs1.distream.net:2126/c25_str/canal25/chunklist_w944520119.m3u8
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Canal America
 http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", CDN 37
-http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
+http://bit.ly/2uONqag
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Digital 15 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", MICROVISION CANAL 10 
@@ -516,9 +516,9 @@ http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =URUGUAY=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="URUGUAY", Unicanal
-http://strm.unicanal.com.py/live/unicanal.m3u8
+http://bit.ly/2xVuNaj
 #EXTINF:-1 group-title="URUGUAY", VTV
-http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+http://bit.ly/2yzvqG0
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =VENEZUELA=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="VENEZUELA", TeleSUR 31
@@ -527,4 +527,3 @@ http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8?iptvg
 http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
 #EXTINF:-1 group-title="VENEZUELA", TVO
 http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8?iptvgratis?chile.m3u8
-
