@@ -190,7 +190,7 @@ http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/04/weather-channel-logo1.jpg" group-title="NOTICIAS", The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg" group-title="NOTICIAS", TVE 24H
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8?sd=10&rebase=on
+http://bit.ly/2yN3oHV
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ARGENTINA=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="ARGENTINA", Canal 4 Jujuy
