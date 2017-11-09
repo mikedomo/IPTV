@@ -449,7 +449,7 @@ http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="PARAGUAY", Unicanal
 http://strm.unicanal.com.py/live/unicanal_mid.m3u8
-#EXTINF:-1 group-title="Paraguay", Telefuturo
+#EXTINF:-1 group-title="PARAGUAY", Telefuturo
 http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =PERU=
 https://www.youtube.com/c/MIKEDOMOIPTV
