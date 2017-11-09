@@ -137,7 +137,7 @@ http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
 http://bit.ly/2hXz43U
 #EXTINF:-1 tvg-logo="http://4vector.com/i/free-vector-locomotion_044661_locomotion.png" group-title="Infantil", Locomotion
 http://bit.ly/2yknkhX
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/ef/3a1.jpg" group-title="INFANTIL", Paka Paka
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RYV1MRssAtY/maxresdefault.jpg" group-title="INFANTIL", Paka Paka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/88/a7/a8/88a7a88649006d00e51f0d3545752b86.png" group-title="INFANTIL", Retro Cartoon 
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
@@ -525,4 +525,3 @@ http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8?iptvg
 http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
 #EXTINF:-1 group-title="VENEZUELA", TVO
 http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8?iptvgratis?chile.m3u8
-
