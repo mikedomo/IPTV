@@ -131,11 +131,9 @@ http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd1
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-sXNN5oNhnAI/VShC8sO_9II/AAAAAAAAAiw/euDCYhFUWtE/s320/AnimeTV.jpg" group-title="INFANTIL", Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="INFANTIL",  Disney Jr.
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="INFANTIL", Disney Jr.
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nQoFljD.png" group-title="INFANTIL", El Chavo 24/7 
-http://bit.ly/2hXz43U
-#EXTINF:-1 tvg-logo="http://4vector.com/i/free-vector-locomotion_044661_locomotion.png" group-title="Infantil", Locomotion
+#EXTINF:-1 tvg-logo="http://4vector.com/i/free-vector-locomotion_044661_locomotion.png" group-title="INFANTIL", Locomotion
 http://bit.ly/2yknkhX
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RYV1MRssAtY/maxresdefault.jpg" group-title="INFANTIL", Paka Paka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
