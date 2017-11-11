@@ -491,6 +491,8 @@ http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", MICROVISION CANAL 10 
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Noticias 16
+http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", PERAVIA VISION 
 http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Telemicro 5
