@@ -43,22 +43,18 @@ http://adtv.ercdn.net/adsport2/adsport2.m3u8
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES", All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 tvg-logo="http://connector.ae/DynamicImages/bein-logo-17.jpg" group-title="DEPORTES", beIN Sports UAE 1
-http://bit.ly/2zasDFm
-#EXTINF:-1 tvg-logo="http://connector.ae/DynamicImages/bein-logo-17.jpg" group-title="DEPORTES", beIN Sports UAE 2
-http://bit.ly/2hFwbb3
-#EXTINF:-1 tvg-logo="http://connector.ae/DynamicImages/bein-logo-17.jpg" group-title="DEPORTES", beIN Sports UAE 3
-http://bit.ly/2hxmVli
-#EXTINF:-1 tvg-logo="http://connector.ae/DynamicImages/bein-logo-17.jpg" group-title="DEPORTES", beIN Sports UAE 4
-http://bit.ly/2AVAJPe
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_8435_2_3505.png" group-title="DEPORTES", CDF PREMIUM HD
 https://is.gd/ea57lw.m3u8?EL_LINCE2021IPTV.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" group-title="DEPORTES", CDN Sports Max
 http://bit.ly/2uKiMUq
 #EXTINF:-1 tvg-logo="http://www.ocregister.com/wp-content/uploads/2017/04/espn-logo.jpg" group-title="DEPORTES", ESPN
 http://bit.ly/2AoZTVs
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png" group-title="DEPORTES", ESPN 2
-http://bit.ly/2mDS2RZ
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png" group-title="DEPORTES", ESPN 2 (Arg)
+http://bit.ly/2hDNFkw
+#EXTINF:-1 tvg-logo="https://deltafonts.com/wp-content/uploads/Fox-Sports-logo.png" group-title="DEPORTES", Fox Sports (Arg)
+http://bit.ly/2zg7n0D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Fox_Sports_2_Logo.jpg" group-title="DEPORTES", Fox Sports 2 (Arg)
+http://bit.ly/2mGtnfj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/745px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/25229/240/default.jpg" group-title="DEPORTES", NBA
