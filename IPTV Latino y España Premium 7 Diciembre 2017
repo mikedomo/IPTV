@@ -19,9 +19,9 @@ http://live.cgtn.com/cctv-d.m3u8
 http://bit.ly/2hhLq5y
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png" group-title="CULTURA", Discovery Channel HD
 http://bit.ly/2ByTLLr
-#EXTINF:-1 tvg-logo="http://carvajalprteam.com.ar/wp-content/uploads/2013/10/Logo-Discovery-Civilization.jpg" group-title="CULTURA", DISCOVERY CIVIZATION
+#EXTINF:-1 tvg-logo="http://carvajalprteam.com.ar/wp-content/uploads/2013/10/Logo-Discovery-Civilization.jpg" group-title="CULTURA", Discovery Civilization
 http://bit.ly/2kxccMv
-#EXTINF:-1 tvg-logo="http://logosrated.net/wp-content/uploads/parser/Discovery-Science-Channel-Logo-1.PNG" group-title="CULTURA", DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="http://logosrated.net/wp-content/uploads/parser/Discovery-Science-Channel-Logo-1.PNG" group-title="CULTURA", Discovery Science
 http://bit.ly/2jqiLxb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Discovery_Turbo.svg/1024px-Discovery_Turbo.svg.png" group-title="CULTURA", Discovery Turbo
 http://bit.ly/2zCTjdT
@@ -145,6 +145,8 @@ http://bit.ly/2wycfx1
 http://player.tvnet.lv/live/amlst:11/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cimgus.com/images/SinoVision.jpg" group-title="ENTRETENIMIENTO", SinoVision 
 http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2016/11/Sony-Channel.jpg" group-title="ENTRETENIMIENTO", Sony
+http://bit.ly/2kaAMiA
 #EXTINF:-1 tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/space_hd.png" group-title="ENTRETENIMIENTO", Space HD
 http://bit.ly/2BqSJk6
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jKf0Sw/Sin_t_tulo_2.png" group-title="ENTRETENIMIENTO", TBS
