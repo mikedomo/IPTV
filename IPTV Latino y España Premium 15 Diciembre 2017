@@ -51,23 +51,23 @@ http://adtv.ercdn.net/adsport2/adsport2.m3u8
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES", All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png", beIN Sports 2 HD
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 2 HD
 http://bit.ly/2CBeD5t
-#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png", beIN Sports 4 HD
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 4 HD
 http://bit.ly/2kxwz8X
-#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png", beIN Sports 5 HD
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 5 HD
 http://bit.ly/2AEb5xX
-#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png", beIN Sports 6 HD
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 6 HD
 http://bit.ly/2jZMpcZ
-#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png", beIN Sports 7 HD
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 7 HD
 http://bit.ly/2zfRMwx
-#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png", beIN Sports 8 HD
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 8 HD
 http://bit.ly/2zfUeDm
-#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png", beIN Sports 9 HD
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 9 HD
 http://bit.ly/2ABK1PQ
-#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png", beIN Sports 10 HD
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 10 HD
 http://bit.ly/2zfNTbb
-#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png", beIN Sports 12 HD 
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 12 HD 
 http://bit.ly/2j8caa8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" group-title="DEPORTES", CDN Sports Max
 http://bit.ly/2uKiMUq
