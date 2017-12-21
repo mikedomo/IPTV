@@ -205,7 +205,7 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 http://bit.ly/2Bq0TZX
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="INFANTIL", Disney Jr.
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://4vector.com/i/free-vector-locomotion_044661_locomotion.png" group-title="INFANTIL", Fox Family
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_2998.png" group-title="INFANTIL", Fox Family
 http://bit.ly/2kT7V2A
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOFamily.mx.png" group-title="INFANTIL", HBO FAMILY
 http://bit.ly/2zJueBu
@@ -561,4 +561,3 @@ https://www.youtube.com/c/MIKEDOMOIPTV
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="VENEZUELA", TVO
 http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8?iptvgratis?chile.m3u8
-
