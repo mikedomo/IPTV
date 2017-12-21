@@ -339,8 +339,6 @@ http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/pl
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="CHILE", ITV Patagonia 
 http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/playlist.m3u8
-#EXTINF:-1 group-title="CHILE", La Red
-http://bit.ly/2BLGHCW
 #EXTINF:-1 group-title="CHILE", Niu TV 
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8 
 #EXTINF:-1 group-title="CHILE", Pinguino TV
