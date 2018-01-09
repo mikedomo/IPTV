@@ -15,8 +15,6 @@ http://bit.ly/2qrvohk
 http://bit.ly/2D1FvME
 #EXTINF:-1 tvg-logo="http://bit.ly/2m2afVo" group-title="CULTURA", COSMOVISION
 http://bit.ly/2hhLq5y
-#EXTINF:-1 tvg-logo="http://bit.ly/2EiXpK9" group-title="CULTURA", Discovery Channel
-http://bit.ly/2AEgWCI
 #EXTINF:-1 tvg-logo="http://bit.ly/2EdJlld" group-title="CULTURA", Investigation Discovery
 http://bit.ly/2AyePA2
 #EXTINF:-1 tvg-logo="http://bit.ly/2CMpJsb" group-title="CULTURA", Travel HD
@@ -31,10 +29,6 @@ http://bit.ly/2CHvFBI
 http://bit.ly/2m3ZZNl
 #EXTINF:-1 tvg-logo="http://bit.ly/2EdPX2G" group-title="DEPORTES", All Sports
 http://bit.ly/2CX0jol
-#EXTINF:-1 tvg-logo="http://bit.ly/2FbK2Nd" group-title="DEPORTES", beIN Sports España
-http://bit.ly/2CP96uS
-#EXTINF:-1 tvg-logo="http://bit.ly/2FbFR3Z" group-title="DEPORTES", beIN Sports La Liga
-http://bit.ly/2mbfB1F
 #EXTINF:-1 tvg-logo="http://bit.ly/2CyAVo9" group-title="DEPORTES", Cable Onda Sports
 http://bit.ly/2BBG672
 #EXTINF:-1 tvg-logo="http://bit.ly/2qwAjxB" group-title="DEPORTES", CDN Sports Max
@@ -45,8 +39,6 @@ http://bit.ly/2AoZTVs
 http://bit.ly/2CgZTv1
 #EXTINF:-1 tvg-logo="http://bit.ly/2m32HSl" group-title="DEPORTES", ESPN 3
 http://bit.ly/2EhKSqf
-#EXTINF:-1 tvg-logo="http://bit.ly/2m76gYL" group-title="DEPORTES", Fox Sports (Arg)
-http://bit.ly/2m43p1V
 #EXTINF:-1 tvg-logo="http://bit.ly/2AwYbkh" group-title="DEPORTES", MLB Network
 http://atmlb.com/2x5XJZ2
 #EXTINF:-1 tvg-logo="http://bit.ly/2F3O7D9" group-title="DEPORTES", NBA TV
@@ -89,18 +81,12 @@ http://bit.ly/2D4YO7w
 http://bit.ly/2CJ0Z32
 #EXTINF:-1 tvg-logo="http://bit.ly/2m19FHt" group-title="ENTRETENIMIENTO", Atreseries
 http://bit.ly/2m1bdRN
-#EXTINF:-1 tvg-logo="http://bit.ly/2COXQzI" group-title="ENTRETENIMIENTO", Caracol HD
-http://bit.ly/2Fa5rGB
 #EXTINF:-1 tvg-logo="http://bit.ly/2F2KCwz" group-title="ENTRETENIMIENTO", Canal Savoir 
 http://bit.ly/2Ed0sDs
 #EXTINF:-1 tvg-logo="http://bit.ly/2COHCGz" group-title="ENTRETENIMIENTO", Cinecanal
 http://bit.ly/2F5FMPc
 #EXTINF:-1 tvg-logo=”http://bit.ly/2F6g39d” group-title="ENTRETENIMIENTO", Deutsche Welle Latinoamérica
 http://bit.ly/2AxNDBF
-#EXTINF:-1 tvg-logo="http://bit.ly/2qzvFyV" group-title="ENTRETENIMIENTO", FOX
-http://bit.ly/2m9dDPo
-#EXTINF:-1 tvg-logo="http://bit.ly/2CMi1hE" group-title="ENTRETENIMIENTO", FOX LIFE 
-http://bit.ly/2AExDOo
 #EXTINF:-1 tvg-logo="http://bit.ly/2AAkQwo" group-title="ENTRETENIMIENTO", Francophonie 24
 http://bit.ly/2AwYOKZ
 #EXTINF:-1 tvg-logo="http://bit.ly/2EetfaZ" group-title="ENTRETENIMIENTO", Golden
@@ -191,16 +177,12 @@ http://bit.ly/2EaVNSs
 http://bit.ly/2iLCJC2
 #EXTINF:-1 tvg-logo="http://bit.ly/2F79ZgU" group-title="NOTICIAS", The Weather Channel
 http://bit.ly/2wQwd1G
-#EXTINF:-1 tvg-logo="http://bit.ly/2m4BzSY" group-title="NOTICIAS", TVE 24 Horas
-http://bit.ly/2mae1x9
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ARGENTINA=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="ARGENTINA", Canal 4 Jujuy
 http://bit.ly/2F5FMPc
 #EXTINF:-1 group-title="ARGENTINA", Canal 10 Rionegrina
 http://bit.ly/2m4kf1j
-#EXTINF:-1 group-title="ARGENTINA", Canal 13
-http://bit.ly/2D0Rda5
 #EXTINF:-1 group-title="ARGENTINA", 13 Max Digital
 http://bit.ly/2CKEFH3
 #EXTINF:-1 group-title="ARGENTINA", Canal 26
@@ -405,6 +387,8 @@ http://bit.ly/2CIRSzd
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="NICARAGUA", TVN Nicaragua
 http://bit.ly/2CJ1vxV
+#EXTINF:-1 group-title="NICARAGUA", Viva Nicaragua Canal 13
+http://bit.ly/2qD4L99
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =PANAMA=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 group-title="PANAMA", RPC 
@@ -449,6 +433,8 @@ https://www.youtube.com/c/MIKEDOMOIPTV
 http://bit.ly/2qrOkfU
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Canal 25
 http://bit.ly/2lYK7uV
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Color Visión 9
+http://bit.ly/2En34yU
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", CDN 37
 http://bit.ly/2uONqag
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", COLOR VISION CANAL 9 
