@@ -11,6 +11,8 @@ https://www.youtube.com/c/MIKEDOMOIPTV
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 tvg-logo="http://bit.ly/2m3ZxP9" group-title="CULTURA", Aprende TV
 http://bit.ly/2qrvohk
+#EXTINF:-1 tvg-logo="http://bit.ly/2r21Bfz" group-title="CULTURA", Buzzr
+http://bit.ly/2DdjrPa
 #EXTINF:-1 tvg-logo="http://bit.ly/2CZMbuK" group-title="CULTURA", CGTN Documentary
 http://bit.ly/2D1FvME
 #EXTINF:-1 tvg-logo="http://bit.ly/2m2afVo" group-title="CULTURA", COSMOVISION
@@ -37,6 +39,8 @@ http://bit.ly/2BBG672
 http://bit.ly/2uKiMUq
 #EXTINF:-1 tvg-logo="http://bit.ly/2F2hRjF" group-title="DEPORTES", ESPN
 http://bit.ly/2AoZTVs
+#EXTINF:-1 tvg-logo="http://bit.ly/2FD4VRE" group-title="DEPORTES", Fight Network
+http://bit.ly/2qMQtD1
 #EXTINF:-1 tvg-logo="http://bit.ly/2AwYbkh" group-title="DEPORTES", MLB Network
 http://atmlb.com/2x5XJZ2
 #EXTINF:-1 tvg-logo="http://bit.ly/2F3O7D9" group-title="DEPORTES", NBA TV
@@ -73,6 +77,8 @@ http://bit.ly/2Df05vu
 http://bit.ly/2mAYvdV
 #EXTINF:-1 tvg-logo="http://bit.ly/2AyaIUH" group-title="DEPORTES", Todo Deportes 
 http://bit.ly/2CAinDC
+#EXTINF:-1 tvg-logo="http://bit.ly/2CYjPzZ" group-title="DEPORTES", WOSN
+http://bit.ly/2CKawUc
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ENTRETENIMIENTO=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 tvg-logo="http://bit.ly/2CYc9ys" group-title="ENTRETENIMIENTO", AMC
@@ -85,6 +91,10 @@ http://bit.ly/2m1bdRN
 http://bit.ly/2Ed0sDs
 #EXTINF:-1 tvg-logo="http://bit.ly/2COHCGz" group-title="ENTRETENIMIENTO", Cinecanal
 http://bit.ly/2F5FMPc
+#EXTINF:-1 tvg-logo="http://bit.ly/2AZzRIa" group-title="ENTRETENIMIENTO", Comet
+http://bit.ly/2qNoByz
+#EXTINF:-1 tvg-logo="http://bit.ly/2B0j6wy" group-title="ENTRETENIMIENTO", Cosi TV 
+http://bit.ly/2CUCNLk
 #EXTINF:-1 tvg-logo=”http://bit.ly/2F6g39d” group-title="ENTRETENIMIENTO", Deutsche Welle Latinoamérica
 http://bit.ly/2AxNDBF
 #EXTINF:-1 tvg-logo=”http://bit.ly/2DqF26F” group-title="ENTRETENIMIENTO", DISTRITO COMEDIA 
@@ -93,6 +103,8 @@ http://bit.ly/2D1OM6m
 http://bit.ly/2AwYOKZ
 #EXTINF:-1 tvg-logo="http://bit.ly/2EetfaZ" group-title="ENTRETENIMIENTO", Golden
 http://bit.ly/2CjtK3E
+#EXTINF:-1 tvg-logo="http://bit.ly/2DaR9HB" group-title="ENTRETENIMIENTO", Juce TV
+http://bit.ly/2EsIlJX
 #EXTINF:-1 tvg-logo="http://bit.ly/2qv441E" group-title="ENTRETENIMIENTO", Las Estrellas
 http://bit.ly/2xzAwi6
 #EXTINF:-1 tvg-logo="http://bit.ly/2COGgLS" group-title="ENTRETENIMIENTO", LBCi
@@ -133,6 +145,8 @@ http://bit.ly/2CxsRnw
 http://bit.ly/2lqHwt4
 #EXTINF:-1 tvg-logo="http://bit.ly/2CMi4ZO" group-title="INFANTIL", Nick Jr
 http://bit.ly/2lnfqPC
+#EXTINF:-1 tvg-logo="http://bit.ly/2msiaM6" group-title="INFANTIL", Smile
+http://bit.ly/2CJLe8U
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =MUSICA=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 tvg-logo="http://bit.ly/2Ax3oZH" group-title="MUSICA", Bandamax
@@ -459,6 +473,8 @@ http://bit.ly/2DpBEci
 http://bit.ly/2D0a9pJ
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", Teleunión
 http://bit.ly/2D8Oy1H
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Visión 3000
+http://bit.ly/2D0qp9o
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA", YUNAVISION
 http://bit.ly/2lWQO0m
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =URUGUAY=
