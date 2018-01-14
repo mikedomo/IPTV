@@ -11,16 +11,10 @@ https://www.youtube.com/c/MIKEDOMOIPTV
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 tvg-logo="http://bit.ly/2m3ZxP9" group-title="CULTURA", Aprende TV
 http://bit.ly/2qrvohk
-#EXTINF:-1 tvg-logo="http://bit.ly/2m3ZxP9" group-title="CULTURA", Discovery Channel HD
-http://bit.ly/2D9TBhx
-#EXTINF:-1 tvg-logo="http://bit.ly/2qAwK9P" group-title="CULTURA", Discovery Max
-http://bit.ly/2D0sXEv
 #EXTINF:-1 tvg-logo="http://bit.ly/2CZMbuK" group-title="CULTURA", CGTN Documentary
 http://bit.ly/2D1FvME
 #EXTINF:-1 tvg-logo="http://bit.ly/2m2afVo" group-title="CULTURA", COSMOVISION
 http://bit.ly/2hhLq5y
-#EXTINF:-1 tvg-logo="http://bit.ly/2AY0T2I" group-title="CULTURA", History
-http://bit.ly/2mA1IdE
 #EXTINF:-1 tvg-logo="http://bit.ly/2EdJlld" group-title="CULTURA", Investigation Discovery
 http://bit.ly/2AyePA2
 #EXTINF:-1 tvg-logo="http://bit.ly/2D9NpH7" group-title="CULTURA", Natgeo Wild
@@ -37,18 +31,12 @@ http://bit.ly/2CHvFBI
 http://bit.ly/2m3ZZNl
 #EXTINF:-1 tvg-logo="http://bit.ly/2EdPX2G" group-title="DEPORTES", All Sports
 http://bit.ly/2CX0jol
-#EXTINF:-1 tvg-logo="http://bit.ly/2FbFR3Z" group-title="DEPORTES", BeinSport Liga
-http://bit.ly/2CZiPM2
 #EXTINF:-1 tvg-logo="http://bit.ly/2CyAVo9" group-title="DEPORTES", Cable Onda Sports
 http://bit.ly/2BBG672
-#EXTINF:-1 tvg-logo="http://bit.ly/2DdpA08" group-title="DEPORTES", CDF Premium
-http://bit.ly/2mAUOoi
 #EXTINF:-1 tvg-logo="http://bit.ly/2qwAjxB" group-title="DEPORTES", CDN Sports Max
 http://bit.ly/2uKiMUq
 #EXTINF:-1 tvg-logo="http://bit.ly/2F2hRjF" group-title="DEPORTES", ESPN
 http://bit.ly/2AoZTVs
-#EXTINF:-1 tvg-logo="http://bit.ly/2EGieQ3" group-title="DEPORTES", GolTV
-http://bit.ly/2D3dpzu
 #EXTINF:-1 tvg-logo="http://bit.ly/2AwYbkh" group-title="DEPORTES", MLB Network
 http://atmlb.com/2x5XJZ2
 #EXTINF:-1 tvg-logo="http://bit.ly/2F3O7D9" group-title="DEPORTES", NBA TV
@@ -195,8 +183,6 @@ http://bit.ly/2iLCJC2
 http://bit.ly/2wQwd1G
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ARGENTINA=
 https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="ARGENTINA", America
-http://bit.ly/2EEZ64D
 #EXTINF:-1 group-title="ARGENTINA", Canal 4 Jujuy
 http://bit.ly/2F5FMPc
 #EXTINF:-1 group-title="ARGENTINA", 13 Max Digital
@@ -205,8 +191,6 @@ http://bit.ly/2CKEFH3
 http://bit.ly/2CKKrbP
 #EXTINF:-1 group-title="ARGENTINA", CPE TV HD
 http://bit.ly/2hRl122
-#EXTINF:-1 group-title="ARGENTINA", El Trece
-http://bit.ly/2r1r60l
 #EXTINF:-1 group-title="ARGENTINA", Power HD
 http://bit.ly/2AypCug
 #EXTINF:-1 group-title="ARGENTINA", Telpin
