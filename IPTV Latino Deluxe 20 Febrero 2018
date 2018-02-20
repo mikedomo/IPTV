@@ -189,8 +189,8 @@ http://bit.ly/2HtXLQu
 http://bit.ly/2iIFCmC
 #EXTINF:-1 tvg-logo="http://bit.ly/2Az35NE" group-title="ENTRETENIMIENTO", TelePAVIA
 http://bit.ly/2qwI6LR
-#EXTINF:-1 tvg-shift=0 tvg-name="TruTV HD" tvg-logo="http://iptvmexico.xyz/logos/png/320.png", TruTV HD
-http://www.iptvmexico.xyz/katya/320.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2og28qg" group-title="ENTRETENIMIENTO", TruTV HD
+http://bit.ly/2CA5BUZ
 #EXTINF:-1 tvg-logo="http://bit.ly/2DF3GE0" group-title="ENTRETENIMIENTO", TBS	
 http://bit.ly/2rIsB48
 #EXTINF:-1 tvg-logo="http://bit.ly/2m1BL5D" group-title="ENTRETENIMIENTO", TV5Monde Latino
