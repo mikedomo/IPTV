@@ -59,9 +59,9 @@ http://bit.ly/2LTYLzo
 http://bit.ly/2mDS2RZ
 #EXTINF:-1 tvg-logo="http://bit.ly/2LhMPXs" group-title="DEPORTES", Espn 3 HD
 http://bit.ly/2HdeKoX
-#EXTINF:-1 tvg-logo="http://bit.ly/2LhMPXs" group-title="DEPORTES", Espn Plus HD
+#EXTINF:-1 tvg-logo="http://bit.ly/2szZOvx" group-title="DEPORTES", Espn Plus HD
 http://bit.ly/2xChj4k
-#EXTINF:-1 tvg-logo="http://bit.ly/2sobYZw" group-title="DEPORTES", Fox Sports
+#EXTINF:-1 tvg-logo="http://bit.ly/2sobYZw" group-title="DEPORTES", Fox Sports 1
 http://bit.ly/2swCRcR
 #EXTINF:-1 tvg-logo="http://bit.ly/2sx2udy" group-title="DEPORTES", Fox Sports 2
 http://bit.ly/2J6bBck
@@ -133,7 +133,7 @@ http://bit.ly/2srADw1
 http://bit.ly/2Ed0sDs
 #EXTINF:-1 tvg-logo="http://bit.ly/2KVcbuM" group-title="ENTRETENIMIENTO", Cinemax
 http://bit.ly/2kFqnMy
-#EXTINF:-1 tvg-logo="http://bit.ly/2KVcbuM" group-title="ENTRETENIMIENTO", Comedy Central HD
+#EXTINF:-1 tvg-logo="http://bit.ly/2szralx" group-title="ENTRETENIMIENTO", Comedy Central HD
 http://bit.ly/2G7mf4m
 #EXTINF:-1 tvg-logo="http://bit.ly/2AZzRIa" group-title="ENTRETENIMIENTO", Comet
 http://bit.ly/2qNoByz
@@ -187,7 +187,7 @@ https://www.youtube.com/c/MIKEDOMOIPTV
 http://bit.ly/2CxXbOC
 #EXTINF:-1 tvg-logo="https://plbz.it/2JnyR92" group-title="INFANTIL", Cartoon Network
 http://bit.ly/2J7cJwd
-#EXTINF:-1 tvg-logo="http://bit.ly/2JjEaq5" group-title="INFANTIL", Disney Channel
+#EXTINF:-1 tvg-logo="http://bit.ly/2HeyNmF" group-title="INFANTIL", Disney Channel
 http://bit.ly/2kFS7jZ
 #EXTINF:-1 tvg-logo="http://bit.ly/2LSCq5u" group-title="INFANTIL", Hbo Family
 http://bit.ly/2Jrbyva
@@ -247,4 +247,3 @@ http://bit.ly/2EaVNSs
 http://bit.ly/2iLCJC2
 #EXTINF:-1 tvg-logo="http://bit.ly/2F79ZgU" group-title="NOTICIAS", The Weather Channel
 http://bit.ly/2wQwd1G
-
