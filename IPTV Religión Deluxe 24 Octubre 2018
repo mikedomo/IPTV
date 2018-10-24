@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 group-title="z-omitir", [COLOR BLUE] [/COLOR] SUSCRIBETE A MI CANAL == https://www.youtube.com/c/MIKEDOMOIPTV
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir", tvg-logo="http://bit.ly/2xdu0k8", [COLOR GREEN] [/COLOR]MIKEDOMO IPTV - IPTV GRATIS PARA TODOS
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir", [COLOR BLUE] [/COLOR] ◄◄◄◄IPTV Religión Deluxe 24/10/2018►►►► 
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir", [COLOR GREEN] DONACIONES == http://bit.ly/2wPyk9B
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =CATOLICISMO=
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="CATOLICISMO", Catholic TV (USA)
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1 group-title="CATOLICISMO", Catholic Life TV (USA)
+http://origin5-edge1.ord.yourstreamlive.com:1935/live/yourstreamlive/out_657_198vbyhi/chunklist.m3u8
+#EXTINF:-1 group-title="CATOLICISMO", Christian Youth Channel (Egypt)
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
+#EXTINF:-1 group-title="CATOLICISMO", Divine Vision Network (USA)
+http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:-1 group-title="CATOLICISMO", Faith and Life TV (USA)
+http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+#EXTINF:-1 group-title="CATOLICISMO", JRES TV (USA) [ES]
+http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
+#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =CIENCIOLOGIA=
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="CIENCIOLOGIA", Scientology Network
+https://stream.scientology.org/stream/index_8.m3u8?offset=0
+#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =JUDAISMO=
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="JUDAISMO", Hidabroot TV** (Israel)
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 group-title="JUDAISMO", House of Yahweh (USA)
+http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
+#EXTINF:-1 group-title="JUDAISMO", Jewish Broadcasting Service (USA)
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 group-title="JUDAISMO", Kabbalah for the People (Israel)
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:-1 group-title="JUDAISMO", Musayof (Israel)
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =HINDUISMO=
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="HINDUISM", Swamiji TV (Austria)
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b400000.m3u8
+#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ISLAMISMO=
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="ISLAMISMO", Al Quran Al Karim (KSA)
+http://199.167.151.237:1935/live/sp15_14.stream/gmswf.m3u8
+#EXTINF:-1 group-title="ISLAMISMO", Al Sunnah Al Nabawiyah (KSA)
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv
+#EXTINF:-1 group-title="ISLAMISMO", Al Sunnah Al Nabawiyah (KSA)
+http://199.167.151.237:1935/live/sp15_31.stream/gmswf.m3u8
+#EXTINF:-1 group-title="ISLAMISMO", Al Majd Holy Quran (KSA)
+http://199.167.151.237:1935/live/sp15_24.stream/gmswf.m3u8
+#EXTINF:-1 group-title="ISLAMISMO", Al Majd Al Hadith (KSA)
+http://199.167.151.237:1935/live/sp15_32.stream/gmswf.m3u8
+#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =PROTESTANTISMO=
+https://www.youtube.com/c/MIKEDOMOIPTV
+#EXTINF:-1 group-title="PROTESTANTISMO", Better Health (USA)
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1 group-title="PROTESTANTISMO", Better Life (USA)
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1 group-title="PROTESTANTISMO", Better Nature (USA)
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1 group-title="PROTESTANTISMO", Bible Explorations (USA)
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:-1 group-title="PROTESTANTISMO", CBN (USA)
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="PROTESTANTISMO", Cielo TV ( Rep. Dom.)
+http://wan-lbf.net:1935/cielotv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="PROTESTANTISMO", Enlace (Costa Rica)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8
+#EXTINF:-1 group-title="PROTESTANTISMO", Enlace Juvenil (Costa Rica)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
